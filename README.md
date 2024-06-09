@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @Mayurbarve</h1><br>
-<img src ="https://github.com/Mayurbarve/Mayurbarve/assets/136147003/5c9d6328-002f-412b-8e30-e33c2eede7fb" width="1050"/>
+<img src = "![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (3)](https://github.com/Mayurbarve/Mayurbarve/assets/136147003/9852749a-e3c5-4313-bfd4-94d48f6df3d2)"/>
 
 
 I'm Mayur, a passionate Full-Stack Web Developer. Feel free to dive into my repository to explore my projects showcasing expertise in JavaSript, React, Nextjs, Nodejs, Redux, MERN, and more. I believe in clean code and collaborative development. 
