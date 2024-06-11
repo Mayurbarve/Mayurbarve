@@ -1,6 +1,7 @@
 <h1>👋 Hi, I’m @Mayurbarve</h1><br>
 
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (3)](https://github.com/Mayurbarve/Mayurbarve/assets/136147003/2eb9b6c7-904e-4bef-b77f-e84633159ba9)
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (4)](https://github.com/Mayurbarve/Mayurbarve/assets/136147003/3547af61-4db6-4c2f-a9eb-cf040fe2791b)
+
 
 
 
