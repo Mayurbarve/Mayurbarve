@@ -36,3 +36,7 @@ Let's build something awesome together!
 <a href="mayurbarve04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mayurbarve04@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/mayur-dudhbarve-432903285"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="MayurBarve" /> </a>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
