@@ -17,9 +17,9 @@ Let's build something awesome together!
 
 ### Skills & Experience.
 
-📕 React / TailwindCSS / JavaScript / HTML/CSS / Bootstrap <br>
+📕 Java / JavaScript / React / TailwindCSS / HTML /CSS  <br>
 💻 Node / Express / Redux(RTK) / SQL / MongoDB / <br>
-👨‍💻 Docker / AWS / Redis (Micro-service) / GitHub <br>
+👨‍💻 Docker / AWS / GitHub / Git <br>
 
 ###
 
@@ -30,13 +30,15 @@ Let's build something awesome together!
 </div>
 
 
-<div align="left">
-</div>
-
 <a href="mayurbarve04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mayurbarve04@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/mayur-dudhbarve-432903285"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="MayurBarve" /> </a>
+<a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="" /> </a>
+
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+<!--
+<img src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/boujamza%20meriem%20-%20CatCat.gif" title="pic2" alt="pic2"> -->
+
