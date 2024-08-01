@@ -35,10 +35,10 @@ Let's build something awesome together!
 <a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="" /> </a>
 
 
-
+<!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<!--
+
 <img src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/boujamza%20meriem%20-%20CatCat.gif" title="pic2" alt="pic2"> -->
 
