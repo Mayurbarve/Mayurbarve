@@ -12,8 +12,8 @@ Let's build something awesome together!
 
 
 
-### Portfolio
-[![Portfolio]()
+
+### <h3><a href="https://web-repo-nu.vercel.app/">Portfolio</a></h3>
 
 
 <div align="left">
@@ -31,7 +31,7 @@ Let's build something awesome together!
 <!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</p> -->
 
-<img src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/boujamza%20meriem%20-%20CatCat.gif" title="pic2" alt="pic2"> -->
+<img src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/boujamza%20meriem%20-%20CatCat.gif" title="pic2" alt="pic2">
 
