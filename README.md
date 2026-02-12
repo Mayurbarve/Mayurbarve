@@ -48,7 +48,7 @@ Let's build something awesome together!
 
 
 ## 🌐 Socials: <h3><a href="https://koderra.io/portfolio/6eb4798e-03fd-42a0-9834-7a54c7ccf712?t=1770894604577">Portfolio</a></h3>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayuusic_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayur-dudhbarve-432903285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurbarve04@gmail.com) <a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="" /> </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayuusic_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-dudhbarve-432903285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurbarve04@gmail.com) <a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="" /> </a>
 
 
 
