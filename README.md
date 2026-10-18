@@ -1,55 +1,72 @@
-<h1>👋 Hi, I’m @Mayur</h1><br>
+<!-- Profile README for Mayur Dudhbarve -->
 
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (4)](https://github.com/Mayurbarve/Mayurbarve/assets/136147003/3547af61-4db6-4c2f-a9eb-cf040fe2791b)
+<h1 align="center">Hi, I'm Mayur Dudhbarve 👋</h1>
+<p align="center">
+  <strong>Software Engineer | Java Backend Development · Linux Operations</strong>
+</p>
 
+<p align="center">
+  I build backend services and practical tools with Java, Spring Boot, and SQL.
+  I also enjoy automating Linux operations and making software reliable through testing.
+</p>
 
+<p align="center">
+  <a href="mailto:mayurbarve04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me- D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mayur-dudhbarve-432903285/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Mayurbarve?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"></a>
+</p>
 
+---
 
-<!--I'm Mayur, a passionate Full-Stack Web Developer. Feel free to dive into my repository to explore my projects showcasing expertise in JavaSript, React, Nextjs, Nodejs, Redux, MERN, and more. I believe in clean code and collaborative development. 
-Let's build something awesome together!
+### 👨‍💻 About me
 
-## 👨‍💻 Full Stack Developer - Actively seeking new opportunities
+- 🎓 B.Tech in Computer Technology, Priyadarshini College of Engineering
+- 💼 Graduate Engineer Trainee at HCL Technologies
+- ☕ Backend development with Java, Spring Boot, REST APIs, and relational databases
+- 🐧 Linux operations, Bash/Python automation, Docker, and CI/CD
+- 🧪 Focused on reliable code with unit, integration, and performance testing
 
+### 🛠️ Tech I work with
 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit">
+</p>
 
---> 
+**Also:** Spring Security · Hibernate/JPA · REST APIs · Bash · GitHub Actions · Mockito · Testcontainers
 
+### 🚀 Featured projects
 
+#### [Rate-Limited URL Shortener](https://github.com/Mayurbarve/Rate-Limited-URL-Shortner)
+Java 17 · Spring Boot · PostgreSQL · Redis · Docker  
+Built a URL shortener with cache-aside storage, a Redis/Lua token-bucket rate limiter, alias-race protection, SSRF protection, and concurrency tests.
 
- 
- 
+#### [TeamPulse — Employee Activity Monitoring Platform](https://github.com/Mayurbarve/TeamPuls-EmployeeManagementSystem)
+Java · Spring Boot · React · Python · MySQL · Docker  
+Designed a three-tier platform with a backend API, dashboard, and cross-platform agent, with role-based access and a privacy-conscious data flow.
 
-# 💻 Tech Stack: 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NodeJS] ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?user=Mayurbarve&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?user=Mayurbarvetheme=one_dark_pro&hide_border=false)<br/>
-![](https://streak-stats.demolab.com?user=Mayurbarve&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💼 Experience highlights
 
+- Automated six recurring Linux operations tasks with Bash and Python, saving approximately 8 hours per week.
+- Supported 15+ Linux servers and helped maintain 99%+ uptime.
+- Built a Spring Boot application with 12 REST endpoints, validation, authentication, and MySQL persistence.
+- Created unit and integration tests and supported CI/CD pipelines for application releases.
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayurbarve&show_icons=true&hide_border=true&theme=transparent" height="150" alt="Mayur's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurbarve&layout=compact&hide_border=true&theme=transparent" height="150" alt="Most used languages">
+</p>
 
-
-<img src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/boujamza%20meriem%20-%20CatCat.gif" title="pic2" alt="pic2">
-<!-- <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p> -->
-
-<!-- <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Mayurbarve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?user=Mayurbarve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/> 
-<img src="https://streak-stats.demolab.com?user=Mayurbarve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" height="150"  />
-</div> -->
-<!-- <div align="center">
-<a href="mayurbarve04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mayurbarve04@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/mayur-dudhbarve-432903285"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="" /> </a>
-<div/> -->
-
-
-## 🌐 Socials: <h3><a href="https://koderra.io/portfolio/6eb4798e-03fd-42a0-9834-7a54c7ccf712?t=1770894604577">Portfolio</a></h3>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayuusic_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-dudhbarve-432903285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurbarve04@gmail.com) <a href="https://github.com/Mayurbarve?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=MayurBarve" alt="" /> </a>
-
-
-
-
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
